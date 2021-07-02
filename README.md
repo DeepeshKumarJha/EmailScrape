@@ -1,3 +1,26 @@
-# EmailScrape
+# EmailScraper
 
-This Project is created using scrapy python lib. EmailScrape will scrape emails from any site you send throuh command argument.
+EmailScraper is a Program which is created to scrape emails from different website,
+EmailScraper support both dynamic and static pages.
+
+
+
+
+## How to use:
+
+you can use `requirment.txt` to install all the dependences,
+
+To execute the program :
+  
+    python run.py -s <list_of_sites>
+
+
+## Library Used:
+- scrapy
+- re
+- selenium
+
+## Limitations:
+
+- Current version don't work with the social media sites.
+- It don't work with the sites which has contact form.
