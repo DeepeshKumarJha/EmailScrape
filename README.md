@@ -24,3 +24,4 @@ To execute the program :
 
 - Current version don't work with the social media sites.
 - It don't work with the sites which has contact form.
+- If the header and footer is generated through javascript, than it might don't work properly.
